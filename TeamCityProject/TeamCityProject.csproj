@@ -202,7 +202,9 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config" />
-    <None Include="Properties\PublishProfiles\MyTeamCity.pubxml" />
+    <Content Include="localRun.ps1" />
+    <None Include="Properties\PublishProfiles\prof.pubxml" />
+    <Content Include="run.ps1" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
